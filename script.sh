@@ -2,7 +2,7 @@
 
 ##Example
 
-student_name = "hasan"
+student_name ="hasan"
 
 echo StudentName = $student_name
 
